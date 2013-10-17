@@ -1,0 +1,4 @@
+dialog
+======
+
+Javascript dialog library
