@@ -1,0 +1,24 @@
+{
+  "name": "dialog",
+  "description": "Dialog box plugin",
+  "version": "0.1.0",
+  "homepage": "https://github.com/firstandthird/dialog",
+  "license": "MIT",
+  "copyright": "First + Third",
+  "main": "dist/fidel.dialog.js",
+  "dependencies": {
+    "fidel": "2.*"
+  },
+  "devDependencies": {
+    "assert": "*",
+    "blanket": "*"
+  },
+  "ignore": [
+    "test",
+    "example",
+    "lib",
+    "Gruntfile.js",
+    "package.json",
+    "grunt"
+  ]
+}
